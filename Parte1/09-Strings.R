@@ -76,7 +76,7 @@ arquivo <- read.csv("http://www.gutenberg.org/cache/epub/100/pg100.txt")
 head(arquivo)
 tail(arquivo)
 
-str_count(arquivo, "7")
+str_count(arquivo, " ")
 str_locale_all(arquivo, "7")
 
 
