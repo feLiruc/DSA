@@ -49,3 +49,6 @@ RSiteSearch("filter")
 ??filter
 filter(g, Sepal.Length > 6)
 filter(g, Sepal.Length > 5)
+
+
+?sort
